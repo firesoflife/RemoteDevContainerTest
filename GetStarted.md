@@ -35,3 +35,5 @@ For this reason, I will presume that you already have a project that you'd like 
 1. Open your project in VS Code.
 
 2. Ensure that you have the Remote - Containers extension installed.
+
+3. Make a change
