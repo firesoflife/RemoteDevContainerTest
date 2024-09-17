@@ -17,7 +17,7 @@ So, here I sit, kids all tucked into bed, and me in my office thinking, "I could
 
 If you've ever been in this situation, you'll know the pain of having to switch between machines, and the inevitable "I forgot to push my changes" moment, the moment where you smash your head on the desk trying to fish that cable that slipped of your desk so you can jam it into the laptop. These moments that remind you of the frailty of your existence and the fragility of your workflow. Enter VS Code Remote - Containers. This is not the only solution to this problem. I've half-heartedly attempted a variety of others. I have even deployed a self-hosted VS-Code based instance on my home server but as it turns out, VS Code Remote - Containers powered by Docker is likely the best solution for me. So, today I will finally get this set up and running in full - no false starts, no half-hearted attempts, no excuses. Let's get this done.
 
-## Preqrequisites
+## Prerequisites
 
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [VS Code](https://code.visualstudio.com/)
